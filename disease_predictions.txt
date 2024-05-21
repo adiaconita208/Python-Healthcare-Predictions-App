@@ -1,0 +1,10 @@
+Predicted disease status for patient 0: Negative
+Predicted disease status for patient 1: Negative
+Predicted disease status for patient 2: Negative
+Predicted disease status for patient 3: Positive
+Predicted disease status for patient 4: Negative
+Predicted disease status for patient 5: Positive
+Predicted disease status for patient 6: Positive
+Predicted disease status for patient 7: Negative
+Predicted disease status for patient 8: Negative
+Predicted disease status for patient 9: Negative
